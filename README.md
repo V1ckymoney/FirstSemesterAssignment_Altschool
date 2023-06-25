@@ -4,7 +4,7 @@ SCISSOR
 ## Description
 A frontend project for URL shortener
 
-#### By (Samod Mukadam)
+#### By (Victor Mike)
 
 ## Technologies Used
 * _HTML_
@@ -21,11 +21,10 @@ A frontend project for URL shortener
 ## Known Bugs
 
 ## Contact
-* _Email: Samodmukadam2005@yahoo.com_
-* _PhoneNumber/WhatsappNumber: +2348129583518_
-* _Facebook:https://facebook.com/samodmukadam2/_
-* _Twitter: https://twitter.com/Zaddy_03_
-* _Linkedin: https://www.linkedin.com/in/samodmukadam/_
-* _Instagram: https://www.instagram.com/03__zaddy/_
+* _Email: Victormikeaziengbe@gmail.com_
+* _PhoneNumber/WhatsappNumber: +2348133799057_
+* _Twitter: https://twitter.com/Omo1ya_
+* _Linkedin: https://www.linkedin.com/in/Victor(Mike)Aziengbe/_
+* _Instagram: https://www.instagram.com/v1c_ky/_
 
-*_Feel free to customize the sections and add more details specific to your project._
+
