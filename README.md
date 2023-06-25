@@ -24,7 +24,7 @@ A frontend project for URL shortener
 * _Email: Victormikeaziengbe@gmail.com_
 * _PhoneNumber/WhatsappNumber: +2348133799057_
 * _Twitter: https://twitter.com/Omo1ya_
-* _Linkedin: https://www.linkedin.com/in/Victor Aziengbe/_
+* _Linkedin: https://www.linkedin.com/in/VictorAziengbe/_
 * _Instagram: https://www.instagram.com/v1c_ky/_
 
 
